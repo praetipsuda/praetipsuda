@@ -2,101 +2,155 @@
 
 # 👋 Hi, I'm Tipsuda Wonginpho
 
-### Backend Developer in Progress 🚀
-
-**Digital Business & Information Systems | Mahasarakham University**
+### 💻 Backend Developer | Digital Business & Information Systems Student
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <i>Building systems, working with data, and turning ideas into practical solutions.</i>
 </p>
 
 </div>
 
 ---
 
-## `01` — About Me
+## 🌱 About Me
 
-I'm a **4th-year Digital Business and Information Systems student** at
-**Mahasarakham University**.
+I am a fourth-year **Digital Business and Information Systems** student at **Mahasarakham University**, with a strong interest in **Backend Development and Web Technologies**.
 
-I'm interested in **Backend Development**, **Database Management**, and
-**Web Application Development**.
+My main interests are **Backend Development, Database Management, API Development, and Web Application Development**. I enjoy working with PHP, MySQL, and building systems that solve real-world problems.
 
-I enjoy building systems, working with databases, and learning how
-applications work behind the scenes.
-
-Currently, I'm developing my skills through academic and personal projects
-while preparing for opportunities in the tech industry.
+I am a continuous learner who is always curious about new technologies. I am currently looking for opportunities to apply what I've learned to real-world projects, improve my technical skills, and gain valuable experience in the tech industry.
 
 ---
 
-## `02` — Education
+## 🎓 Education
 
-**Mahasarakham University**
+**Mahasarakham University**  
+*Bachelor of Business Administration in Digital Business and Information Systems*
 
-`Bachelor of Business Administration`
-
-**Digital Business and Information Systems**
-
-`2023 — Present`  |  `GPAX 2.66`
+📅 **2023 – Present**  
+🎯 **GPAX: 2.66**
 
 ---
 
-## `03` — What I Do
+## ⭐ Featured Skills & Career Interests
 
-| Area | Focus |
-|---|---|
-| Backend | Server-side development |
-| Database | Database design & management |
-| API | API development & integration |
-| Web | Web application development |
+- 💻 **Backend Development** — Developing server-side applications and web systems.
+- 🗄️ **Database Management** — Designing and managing relational databases.
+- 🔌 **API Development** — Building and integrating APIs for web applications.
+- 🌐 **Web Development** — Developing functional and user-friendly web applications.
+- 🔧 **System Analysis** — Analyzing requirements and designing system workflows.
+
 
 ---
 
-## `04` — Tech Stack
+## 🛠️ Technical Skills
 
-### Backend
+### 💻 Programming & Web
 
-<p>
-<img src="https://skillicons.dev/icons?i=php" width="55"/>
-</p>
+- 🐘 **PHP**
+- 🟨 **JavaScript**
+- 🌐 **HTML**
+- 🎨 **CSS**
 
-### Database
+### 🗄️ Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" width="55"/>
-</p>
+- 🐬 **MySQL**
+- 🔎 **phpMyAdmin**
+- 🗃️ **Database Management**
 
-### Frontend
+### 🔧 Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" width="220"/>
-</p>
+- 🌱 **Git**
+- 🐙 **GitHub**
+- 💙 **Visual Studio Code**
+- 🖥️ **XAMPP**
 
-### Development Tools
+### 📦 Frameworks & Libraries
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" width="165"/>
-</p>
+- 🅱️ **Bootstrap**
 
 ---
 
-## `05` — Current Project
+## 💻 Currently Working On
 
-### Dormitory Repair Management System
+### 🏠 Online Dormitory Repair System
 
-A web-based system for managing dormitory repair requests.
+A web-based system designed to help dormitory residents report repair problems and track repair status.
 
+#### ✨ Main Features
 
-**Stack**
+- 📝 Online repair request
+- 📅 Repair appointment scheduling
+- 🔍 Repair status tracking
+- 👨‍🔧 Technician job management
+- 👤 User and administrator management
+- 🗄️ Database management
 
-```text
-PHP
-MySQL
-JavaScript
-HTML / CSS
-Bootstrap
+#### ⚙️ Technologies
+
+`PHP` `MySQL` `HTML` `CSS` `JavaScript` `Bootstrap`
+
+---
+
+## 📚 Currently Learning
+
+- ⚙️ Backend Development
+- 🐘 PHP
+- 🐬 MySQL & Database Design
+- 🔌 REST API
+- 🌱 Git & GitHub
+- 🌐 Web Application Development
+
+---
+
+## 🎯 Career Interests
+
+I am interested in pursuing a career as a:
+
+💻 **Backend Developer**  
+🌐 **Web Developer**  
+🗄️ **Database Developer**  
+🔧 **System Analyst**
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+
+</div>
+
+---
+
+## 🚀 Featured Project
+
+### 🏠 Online Dormitory Repair System
+
+> A web application for managing dormitory repair requests, scheduling appointments, and tracking repair progress.
+
+**Tech Stack**
+
+`🐘 PHP` `🐬 MySQL` `🟨 JavaScript` `🌐 HTML` `🎨 CSS` `🅱️ Bootstrap`
+
+---
+
+## 📬 Contact
+
+📍 **Nakhon Phanom, Thailand**  
+🎓 **Mahasarakham University**
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<i>Always learning. Always improving. Always building.</i>
+
+</div>
