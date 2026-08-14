@@ -98,11 +98,11 @@ I am interested in pursuing a career as a:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=praetipsuda&show_icons=true&theme=default&hide_border=true" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praetipsuda&layout=compact&hide_border=true" />
 
 </div>
 
