@@ -73,18 +73,7 @@ I am a continuous learner who is always curious about new technologies. I am cur
 
 ## 💻 Currently Working On
 
-### 🏠 Online Dormitory Repair System
 
-A web-based system designed to help dormitory residents report repair problems and track repair status.
-
-#### ✨ Main Features
-
-- 📝 Online repair request
-- 📅 Repair appointment scheduling
-- 🔍 Repair status tracking
-- 👨‍🔧 Technician job management
-- 👤 User and administrator management
-- 🗄️ Database management
 
 #### ⚙️ Technologies
 
