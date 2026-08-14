@@ -69,15 +69,6 @@ I am a continuous learner who is always curious about new technologies. I am cur
 
 - 🅱️ **Bootstrap**
 
----
-
-## 💻 Currently Working On
-
-
-
-#### ⚙️ Technologies
-
-`PHP` `MySQL` `HTML` `CSS` `JavaScript` `Bootstrap`
 
 ---
 
@@ -116,8 +107,6 @@ I am interested in pursuing a career as a:
 </div>
 
 ---
-
-## 🚀 Featured Project
 
 
 **Tech Stack**
