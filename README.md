@@ -115,10 +115,12 @@ I am interested in pursuing a career as a:
 
 ---
 
-## 📬 Contact
+### 📬 Contact
 
 📍 **Nakhon Phanom, Thailand**  
-🎓 **Mahasarakham University**
+🎓 **Mahasarakham University**  
+📞  **0654799814**
+
 
 ---
 
