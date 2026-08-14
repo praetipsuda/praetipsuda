@@ -64,6 +64,7 @@ I am a continuous learner who is always curious about new technologies. I am cur
 - 💙 **Visual Studio Code**
 - 🖥️ **XAMPP**
 
+
 ### 📦 Frameworks & Libraries
 
 - 🅱️ **Bootstrap**
@@ -106,7 +107,34 @@ I am interested in pursuing a career as a:
 </div>
 
 ---
+## 📜 Certificate   
 
+<ol>
+  <li>IC3 IT Specialilist Caritcation Data Analytics | Score: 824</li>
+  <li>Gemini Certified Educator – Google for Education (2026)</li>
+</ol>
+
+<details>
+  <summary>🖼️ Click to view my certificates (Images)</summary>
+  <br>
+  <ol>
+    <li>
+      IC3 IT Specialilist Caritcation Data Analytics
+      <br><br>
+      <img width="800" alt="image" src="https://github.com/user-attachments/assets/3272f40c-02db-4d64-8038-416d08817f5f" />
+      <br><br>
+      <img width="639" alt="image" src="https://github.com/user-attachments/assets/44e23c3c-368e-46c5-b3e0-2c38dbb946d9" />
+    </li>
+    <br>
+    <li>
+      Gemini Certified Educator
+      <br><br>
+      <img width="578" alt="image" src="https://github.com/user-attachments/assets/cc8315d2-b458-45ef-af4c-31a0f1a30518" />
+    </li>
+  </ol>
+</details>
+
+<br>
 
 **Tech Stack**
 
