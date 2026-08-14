@@ -78,7 +78,7 @@ I am a continuous learner who is always curious about new technologies. I am cur
 - 🐘 PHP
 - 🐬 MySQL & Database Design
 - 🔌 REST API
-- 🌱 Git & GitHub
+- 🌱 GitHub
 - 🌐 Web Application Development
 
 ---
