@@ -130,9 +130,6 @@ I am interested in pursuing a career as a:
 
 ## 🚀 Featured Project
 
-### 🏠 Online Dormitory Repair System
-
-> A web application for managing dormitory repair requests, scheduling appointments, and tracking repair progress.
 
 **Tech Stack**
 
