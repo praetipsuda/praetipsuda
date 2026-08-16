@@ -61,7 +61,6 @@ I am a continuous learner who is always curious about new technologies. I am cur
 
 ### 🔧 Tools
 
-- 🌱 **GitHub**
 - 💙 **Visual Studio Code**
 - 🖥️ **XAMPP**
 - ✧**gpt**
