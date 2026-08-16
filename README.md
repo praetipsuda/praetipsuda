@@ -58,12 +58,14 @@ I am a continuous learner who is always curious about new technologies. I am cur
 - 🔎 **phpMyAdmin**
 - 🗃️ **Database Management**
 
+
 ### 🔧 Tools
 
 - 🌱 **GitHub**
 - 💙 **Visual Studio Code**
 - 🖥️ **XAMPP**
-
+- ✧**gpt**
+- ✦**gemini**
 
 ### 📦 Frameworks & Libraries
 
