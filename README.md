@@ -45,7 +45,7 @@ I am a continuous learner who is always curious about new technologies. I am cur
 
 ## 🛠️ Technical Skills
 
-### 💻 Web Developer
+### 💻 Web Development
 
 - 🐘 **PHP**
 - 🟨 **JavaScript**
